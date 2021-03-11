@@ -1,0 +1,7 @@
+debug: true
+spring:
+  application:
+    name: xxxMyLoaderApp
+  cloud:
+    config:
+      uri: http://my-host.address.com:8761/config
